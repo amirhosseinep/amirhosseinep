@@ -27,8 +27,10 @@
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
 </div>
-<br>
 <div>
+<a href="https://github.com/Pepyn0">
+    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinep&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
 
 ## 📫 &nbsp;My Contacts
 
@@ -37,5 +39,4 @@
   [![Gmail Badge](https://img.shields.io/badge/-amirhossein.esmailpourr@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:amirhossein.esmailpourr@gmail.com)
   [![Instagram Badge](https://img.shields.io/badge/-shahzade2ragge-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/shahzade2ragge/)
   [![Twitter Badge](https://img.shields.io/badge/-AmirhosseinEP-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AmirhosseinEP)
-
 </div>
