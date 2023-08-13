@@ -1,8 +1,7 @@
 ### My name is `Amirhossein Esmaeilpour`.
 
 
-- 🔭 I’m currently working on a Data Project callled BDI. In this project I am responsible for developing Pyspark codes from Oracle PL/SQL Reports. 
-- 🌱 I’m currently learning Hadoop and Spark architecture in order to be more efficacious in the Team.
+- 🔭 Currently, I am studying Doctorate in Administrative Sciences, majoring in Operations and Decision Systems at the business school of Laval University. My project is part of a research project on decision support for Search and Rescue Operations under Canadian jurisdiction. This is a new journey for me…
 
 <br>
 
