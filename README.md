@@ -5,14 +5,13 @@
 
 <be>
 
-<center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp; </center>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" class="center" width="80px" >&nbsp;
 
 <div>
   
-
-  `=========================`
+  `===========`
   <br>
-  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;`¯\_(ツ)_/¯`
+  &ensp;`¯\_(ツ)_/¯`
 </div>
 <br>
 <div>
