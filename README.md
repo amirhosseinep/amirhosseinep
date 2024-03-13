@@ -3,9 +3,9 @@
 
 - 🔭 Currently, I am studying Doctorate in Administrative Sciences, majoring in Operations and Decision Systems at the business school of Laval University. My project is part of a research project on decision support for Search and Rescue Operations under Canadian jurisdiction. This is a new journey for me…
 
-<br>
+<be>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;
+<center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp; </center>
 
 <div>
   
